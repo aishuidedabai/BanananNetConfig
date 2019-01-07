@@ -1,10 +1,10 @@
 tp-cht-vps14.pqs.pw:60086:美国
 tp-cht-vps14.pqs.pw:60086:美国
 tp-cht-vps14.pqs.pw:60086:Netflix
-tw1.rux.vps1.rux.cloud:50086:美国
-tw1.rux.vps1.rux.cloud:50086:Netflix
 202.144.195.119:60086:香港
 103.70.59.184:60086:香港
 103.70.59.208:60086:香港
 103.70.59.22:60086:香港
+173.82.115.183:60086:美国
+tw1.rux.vps1.rux.cloud:50086:澳大利亚
 tw1.rux.vps1.rux.cloud:50086:澳大利亚
